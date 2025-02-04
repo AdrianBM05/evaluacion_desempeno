@@ -1,0 +1,4 @@
+<odoo>
+    <menuitem id="menu_evaluacion_desempeno_root" name="Evaluaciones de Desempeño" parent="hr.menu_hr_root"/>
+    <menuitem id="menu_evaluacion_desempeno" name="Evaluaciones" parent="menu_evaluacion_desempeno_root" action="action_evaluacion_desempeno"/>
+</odoo>
